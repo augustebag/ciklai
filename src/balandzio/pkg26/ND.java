@@ -20,7 +20,7 @@ public class ND {
         System.out.print("Ivesk sk iki: ");
         int iki = sc.nextInt();
         
-        
+        //
         if (nuo > iki) {
             int tmp = iki;
             iki = nuo;
